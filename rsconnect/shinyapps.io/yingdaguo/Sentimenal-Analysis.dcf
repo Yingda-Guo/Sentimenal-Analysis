@@ -1,0 +1,13 @@
+name: Sentimenal-Analysis
+title: Sentimenal-Analysis
+username:
+account: yingdaguo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4823810
+bundleId: 5118780
+url: https://yingdaguo.shinyapps.io/Sentimenal-Analysis/
+when: 1633703832.26985
+lastSyncTime: 1633703832.26986
+asMultiple: FALSE
+asStatic: FALSE

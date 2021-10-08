@@ -1,6 +1,6 @@
 # Sentimenal-Analysis (Python & R)
 
-A NPL (Python TextBlob) web application (R Shiny) which predicts input text trend: positive, negative, or neutral
+A NPL (Python TextBlob) web application (R Shiny) which predicts input text trend: positive, negative, or neutral. [Link to the app](https://yingdaguo.shinyapps.io/Sentimenal-Analysis/).
 
 ![sentimental](https://user-images.githubusercontent.com/13625416/136576718-170a1969-1dda-4bb0-8ced-aa6c683ff25c.gif)
 

@@ -38,9 +38,9 @@ ui <- dashboardPage(
   dashboardBody(
     tags$style("
               body {
-    -moz-transform: scale(1.5, 1.5); /* Moz-browsers */
-    zoom: 1.5; /* Other non-webkit browsers */
-    zoom: 150%; /* Webkit browsers */}
+    -moz-transform: scale(1.3, 1.3); /* Moz-browsers */
+    zoom: 1.3; /* Other non-webkit browsers */
+    zoom: 130%; /* Webkit browsers */}
               "),
     use_cicerone(), # include dependencies
     box(

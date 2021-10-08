@@ -5,9 +5,9 @@ account: yingdaguo
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 4823810
-bundleId: 5118780
+bundleId: 5118812
 url: https://yingdaguo.shinyapps.io/Sentimenal-Analysis/
-when: 1633703832.26985
-lastSyncTime: 1633703832.26986
+when: 1633704360.08662
+lastSyncTime: 1633704360.08664
 asMultiple: FALSE
 asStatic: FALSE

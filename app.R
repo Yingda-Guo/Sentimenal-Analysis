@@ -5,7 +5,6 @@ library(shinyWidgets)
 # Set python environment
 library(reticulate)
 
-# remove a comment
 # = use_python("/usr/local/bin/python3")
 virtualenv_create('pyDev',python = '/usr/bin/python3')
 virtualenv_install("pyDev", packages = c('nltk', 'textblob'))
